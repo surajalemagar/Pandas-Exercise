@@ -1,0 +1,7 @@
+1,Krishna Ale,53
+2, Sanu Maya Ale,44
+3, Suman Ale,26
+4, Srijana Ale,23
+5, Sujan Ale Magar,23
+6, Suraj Ale Magar,21
+7, Sushant Ale,1
